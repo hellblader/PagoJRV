@@ -108,7 +108,7 @@ Partial Class ingreso
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.planilla.My.Resources.Resources.LOGO_TSE
-        Me.PictureBox1.Location = New System.Drawing.Point(23, 12)
+        Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(139, 68)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage

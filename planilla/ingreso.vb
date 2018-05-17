@@ -67,7 +67,7 @@ Public Class ingreso
     End Sub
 
     Private Sub ingreso_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
+        'otra linea por gusto
     End Sub
 
     Private Sub txtusuario_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txtusuario.KeyDown
